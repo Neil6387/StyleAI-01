@@ -1,0 +1,6 @@
+{
+  "name": "Hairstyle Assistant",
+  "description": "上傳照片自動分析臉型，提供適合的髮型設計與染髮色系建議，並提供 AR 虛擬試戴預覽功能。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
